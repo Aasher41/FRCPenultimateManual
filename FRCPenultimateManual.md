@@ -88,6 +88,10 @@
 
 * ALWAYS connect to the field at least once before qualification matches start.
 
+* Make sure all wiring is neat and easy to ascess in case eomthing doesnt work
+
+* Ensure all soder points have a strong bond and will not break
+
 ## Build
 
 * Strategy should happen before design and design should happen before fabrication.
